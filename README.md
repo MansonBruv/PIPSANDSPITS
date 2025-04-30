@@ -69,7 +69,7 @@ public class BlastAutomator {
     }
 
     public static void main(String[] args) throws Exception {
-        // ✅ Your custom DNA sequence
+        //custom DNA sequence
         String originalSeq = "GTAGGTCTTTGGCATTAGGAGCTTGAGCCCAGACGGCCCTAGCAGGGACCCCAGCGCCCGAGAGACC"
                 + "ATGCAGAGGTCGCCTCTGGAAAAGGCCAGCGTTGTCTCCAAACTTTTTTTCAGGTGAGAAGGTGGCCAAC"
                 + "CGAGCTTCGGAAAGACACGTGCCCACGAAAGAGGAGGGCGTGTGTATGGGTTGGGTTTGGGGTAAAGGAA"
